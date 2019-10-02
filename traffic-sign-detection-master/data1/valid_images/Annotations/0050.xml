@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>0050.png</filename>
+<path>F:\交通标志识别\交通标志识别数据集\a\JPEGImages\0050.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1123</width>
+    <height>701</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>4</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>423</xmin>
+        <ymin>261</ymin>
+        <xmax>485</xmax>
+        <ymax>314</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>902</xmin>
+        <ymin>266</ymin>
+        <xmax>952</xmax>
+        <ymax>312</ymax>
+    </bndbox>
+</object>
+</annotation>

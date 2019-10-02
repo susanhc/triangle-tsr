@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>train</folder>
+<filename>037_1_0008.png</filename>
+<path>C:\Users\Administrator\Desktop\train\037_1_0008.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>132</width>
+    <height>126</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19</xmin>
+        <ymin>16</ymin>
+        <xmax>101</xmax>
+        <ymax>93</ymax>
+    </bndbox>
+</object>
+</annotation>

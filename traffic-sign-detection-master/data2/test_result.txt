@@ -1,0 +1,293 @@
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_915.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_187.jpg 284 173 319 208 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_882.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1282.jpg 301 271 350 320 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1321.jpg 244 300 315 371 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_107.jpg 112 491 157 536 3 262 371 305 414 0 340 371 382 413 2 107 370 151 414 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_621.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_86.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_574.jpg 141 303 185 347 1 277 301 322 346 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_616.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_333.jpg 261 244 323 306 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_381.jpg 365 471 394 500 0 290 213 350 273 0 391 198 454 261 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1215.jpg 132 297 201 366 1 241 288 311 358 1 317 276 392 351 0 431 263 510 342 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_717.jpg 22 282 65 325 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_390.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1165.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_201.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_846.jpg 394 306 447 359 3 484 283 527 326 5 127 241 205 319 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_770.jpg 272 187 369 284 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_598.jpg 95 160 156 221 1 204 158 249 203 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_847.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_72.jpg 40 223 113 296 1 216 223 312 319 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_996.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_11.jpg 256 333 301 378 0 177 332 223 378 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_59.jpg 150 466 224 540 3 0 454 104 558 5 95 219 152 276 1 332 197 397 262 0 239 169 297 227 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_330.jpg 257 300 306 349 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_98.jpg 0 268 111 385 1 230 264 347 381 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1117.jpg 281 114 422 255 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1360.jpg 31 279 103 351 0 143 269 216 342 0 259 259 334 334 0 387 247 464 324 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1256.jpg 91 194 182 285 0 233 179 327 273 0 393 160 491 258 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1196.jpg 189 171 307 289 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_673.jpg 224 0 454 230 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1236.jpg 52 347 92 387 1 136 344 176 384 2 214 340 254 380 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_611.jpg 230 110 289 169 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_271.jpg 130 247 268 385 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_981.jpg 34 346 99 411 1 143 340 211 408 1 250 335 318 403 0 324 334 392 402 2 388 329 460 401 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_895.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_646.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_123.jpg 2 245 77 320 0 124 229 215 320 0 264 211 359 306 0 426 191 525 290 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1320.jpg 261 102 361 202 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1222.jpg 46 245 161 360 0 254 234 368 348 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1203.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1167.jpg 196 34 237 75 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_207.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_425.jpg 266 313 320 367 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_929.jpg 275 71 316 112 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_962.jpg 70 461 126 517 3 94 296 149 351 0 0 296 47 356 1 192 294 246 348 0 290 289 345 344 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1367.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1412.jpg 282 232 335 285 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1386.jpg 220 295 253 328 3 182 296 216 330 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_738.jpg 236 219 323 306 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_151.jpg 64 224 143 303 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1063.jpg 217 218 466 467 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_508.jpg 227 296 286 355 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1313.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_480.jpg 279 200 346 267 0 391 180 465 254 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_409.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1020.jpg 27 305 91 369 0 93 298 160 365 0 199 292 268 361 0 310 286 381 357 0 434 279 507 352 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1258.jpg 0 150 89 266 0 388 37 535 184 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_580.jpg 429 274 539 384 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_33.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1127.jpg 510 277 640 411 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1455.jpg 269 222 358 311 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_541.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_845.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_672.jpg 6 287 171 452 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1016.jpg 223 51 376 204 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_23.jpg 237 505 287 555 1 300 499 353 552 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_315.jpg 170 233 233 296 0 285 224 353 292 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_857.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_22.jpg 266 200 334 268 0 380 178 456 254 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_678.jpg 216 23 504 311 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1384.jpg 194 182 340 328 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1040.jpg 134 275 365 506 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_995.jpg 72 199 218 345 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_456.jpg 194 400 245 451 0 105 396 157 448 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_546.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1419.jpg 163 245 272 354 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1337.jpg 47 351 104 408 0 108 345 167 404 0 201 340 261 400 0 297 333 359 395 0 403 326 465 388 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1084.jpg 290 185 368 263 3 241 0 425 184 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_797.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_16.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1317.jpg 316 0 359 41 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_21.jpg 147 450 196 499 0 252 443 301 492 0 0 21 120 175 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1311.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_14.jpg 251 309 306 364 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_466.jpg 191 159 272 240 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_69.jpg 350 601 390 640 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1233.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1208.jpg 7 231 93 317 0 293 176 389 272 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_610.jpg 470 110 556 196 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_60.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1325.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_475.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1294.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_532.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_790.jpg 129 234 208 313 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_96.jpg 94 235 208 349 0 282 186 397 301 0 508 132 640 275 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_282.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_327.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_645.jpg 243 326 287 370 4 292 320 342 370 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_384.jpg 98 308 173 383 1 217 300 292 375 0 300 298 376 374 2 369 290 450 371 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_81.jpg 136 274 259 397 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_490.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_479.jpg 47 214 113 280 0 139 210 203 274 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_351.jpg 69 231 145 307 0 195 215 274 294 0 333 199 417 283 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1418.jpg 15 379 42 406 4 389 266 434 311 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_380.jpg 239 94 279 134 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_953.jpg 64 301 117 354 1 157 296 211 350 1 359 277 416 334 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1423.jpg 208 335 250 377 1 274 331 319 376 1 426 331 468 373 2 572 294 640 365 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_65.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_286.jpg 265 494 315 544 0 11 192 84 265 1 103 178 172 247 1 347 134 430 217 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_547.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_576.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1059.jpg 150 238 243 331 0 412 234 455 277 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1118.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1035.jpg 0 300 85 393 0 135 276 236 377 0 295 252 403 360 0 490 221 605 336 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_632.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_367.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_759.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_335.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_775.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_781.jpg 271 130 311 170 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1050.jpg 414 92 640 329 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1076.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_243.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_198.jpg 178 321 223 366 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_63.jpg 267 205 351 289 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_702.jpg 251 140 347 236 0 66 135 164 233 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_925.jpg 363 0 402 38 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_970.jpg 101 337 192 428 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_299.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_820.jpg 91 233 191 333 1 277 222 377 322 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_406.jpg 0 380 47 431 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_569.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_872.jpg 183 340 222 379 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1132.jpg 0 251 117 391 0 279 210 427 358 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_911.jpg 228 76 409 257 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_130.jpg 40 255 113 328 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1431.jpg 258 227 360 329 2 449 201 559 311 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_306.jpg 176 190 230 244 4 303 142 390 229 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_504.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_743.jpg 286 189 315 218 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1263.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_949.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_455.jpg 127 243 186 302 1 378 222 443 287 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_216.jpg 372 0 409 36 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_706.jpg 25 163 149 287 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1139.jpg 227 154 264 191 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_290.jpg 0 276 82 383 0 144 260 255 371 0 343 242 457 356 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1430.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_241.jpg 6 200 77 271 1 129 194 199 264 0 280 181 356 257 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_295.jpg 120 214 156 250 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1170.jpg 270 240 361 331 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_58.jpg 305 492 427 614 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_575.jpg 110 351 155 396 1 185 347 231 393 0 264 340 311 387 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1456.jpg 350 201 393 244 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_729.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_570.jpg 130 213 215 298 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_408.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_917.jpg 133 211 214 292 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_613.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1463.jpg 254 101 317 164 0 147 99 211 163 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1137.jpg 127 182 247 302 3 571 149 621 199 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1113.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1204.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_707.jpg 97 136 220 259 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_229.jpg 111 258 320 467 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_559.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_193.jpg 21 241 102 322 1 142 224 225 307 1 227 207 318 298 2 357 188 453 284 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1074.jpg 89 297 131 339 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_835.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_144.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1300.jpg 207 156 326 275 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1161.jpg 320 369 357 406 2 287 370 323 406 0 248 369 283 404 0 186 367 225 406 1 123 368 163 408 1 426 365 480 419 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_111.jpg 153 312 204 363 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_698.jpg 123 315 170 362 1 200 313 248 361 1 323 311 368 356 0 364 309 411 356 2 550 228 640 321 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1235.jpg 128 270 229 371 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_74.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_763.jpg 320 163 353 196 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_686.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1279.jpg 51 315 138 402 1 186 306 273 393 0 282 302 369 389 2 362 294 455 387 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_803.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_920.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1437.jpg 251 451 310 510 1 0 261 48 309 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_758.jpg 156 250 263 357 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_712.jpg 199 316 243 360 0 284 313 328 357 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_319.jpg 348 245 442 339 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_118.jpg 108 108 210 210 0 227 101 330 204 0 329 91 441 203 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1355.jpg 53 304 196 447 0 350 268 492 410 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_0.jpg 113 227 210 324 0 280 192 382 294 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_593.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_93.jpg 145 287 203 345 4 213 269 276 332 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_944.jpg 151 426 191 466 3 153 315 195 357 1 299 313 338 352 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1363.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_967.jpg 23 289 67 333 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_412.jpg 0 382 30 415 3 0 92 89 182 1 156 66 256 166 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_441.jpg 138 288 197 347 4 208 271 271 334 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1227.jpg 135 248 205 318 0 264 239 335 310 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1286.jpg 207 73 321 187 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_393.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_772.jpg 266 147 305 186 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1166.jpg 296 295 348 347 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_643.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1303.jpg 257 274 369 386 3 137 268 253 384 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_904.jpg 254 375 319 440 1 0 367 54 422 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_222.jpg 152 325 203 376 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1342.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1131.jpg 248 213 302 267 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_637.jpg 279 109 358 188 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1202.jpg 148 54 416 322 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_12.jpg 8 210 84 286 0 125 201 203 279 0 247 191 327 271 0 384 179 466 261 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_505.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1101.jpg 35 318 97 380 1 137 311 201 375 1 238 305 301 368 0 307 304 371 368 0 366 299 433 366 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_75.jpg 233 93 385 245 5 482 9 558 85 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_52.jpg 285 150 325 190 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_848.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_436.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_246.jpg 166 211 247 292 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_605.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_71.jpg 339 393 392 446 1 365 251 425 311 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_785.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1018.jpg 197 45 437 285 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1014.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1186.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1440.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_979.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1201.jpg 47 288 118 359 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1309.jpg 235 93 279 137 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1308.jpg 242 334 277 369 4 276 329 318 371 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_898.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_463.jpg 79 524 130 575 3 167 143 222 198 1 269 141 313 185 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1223.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_50.jpg 35 185 166 316 0 314 159 456 301 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_677.jpg 184 198 232 246 4 307 162 381 236 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1130.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_867.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1398.jpg 0 194 72 268 1 84 180 163 259 0 187 169 265 247 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_345.jpg 128 205 350 427 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_197.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1155.jpg 77 178 169 270 1 222 128 329 235 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1112.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1248.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_771.jpg 234 237 331 334 3 130 237 228 335 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_194.jpg 106 459 178 531 3 109 178 193 262 0 257 160 344 247 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_457.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_939.jpg 345 186 436 277 0 176 184 268 276 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_277.jpg 151 142 407 398 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_37.jpg 283 190 367 274 0 423 169 511 257 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_320.jpg 297 216 391 310 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1331.jpg 59 318 138 397 1 184 314 262 392 0 270 311 349 390 0 345 308 427 390 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_154.jpg 0 263 121 393 0 287 223 436 372 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_369.jpg 278 127 379 228 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_591.jpg 76 304 166 394 1 217 295 307 385 0 316 289 409 382 2 405 281 504 380 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1348.jpg 35 287 72 324 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_287.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1022.jpg 134 295 364 525 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_410.jpg 372 310 418 356 4 424 308 471 355 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_469.jpg 87 297 168 378 0 220 293 303 376 0 366 288 451 373 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_442.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_608.jpg 146 257 244 355 0 308 236 423 351 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_227.jpg 217 235 319 337 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1070.jpg 75 374 141 440 1 174 357 244 427 0 293 337 368 412 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_289.jpg 277 0 400 123 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1226.jpg 0 300 54 362 1 58 292 123 357 0 160 287 225 352 0 265 280 332 347 0 380 274 448 342 2 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1154.jpg 136 104 260 228 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1058.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_502.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_902.jpg 0 274 159 440 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_350.jpg 243 186 358 301 3 118 185 235 302 4 0 189 114 303 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1359.jpg 267 355 294 382 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1121.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_148.jpg 161 95 333 267 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1283.jpg 230 199 353 322 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1107.jpg 238 196 333 291 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_57.jpg 26 339 64 377 4 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_100.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1347.jpg 219 279 256 316 0 143 279 184 320 1 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1275.jpg 263 255 305 297 1 413 239 458 284 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_913.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_800.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_954.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_886.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_582.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1291.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_584.jpg 227 250 289 312 0 329 237 407 315 0 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_417.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_964.jpg 172 233 271 332 3 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1041.jpg 216 37 382 203 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_161.jpg 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_1136.jpg 462 197 512 247 5 
+/home/hc/flush/traffic-sign-detection-master/data/test_images/JPEGImages/sign_826.jpg 

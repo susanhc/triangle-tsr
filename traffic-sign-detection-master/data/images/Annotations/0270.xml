@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>0270.png</filename>
+<path>F:\交通标志识别\交通标志识别数据集\a\JPEGImages\0270.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>981</width>
+    <height>671</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>628</xmin>
+        <ymin>321</ymin>
+        <xmax>683</xmax>
+        <ymax>369</ymax>
+    </bndbox>
+</object>
+</annotation>

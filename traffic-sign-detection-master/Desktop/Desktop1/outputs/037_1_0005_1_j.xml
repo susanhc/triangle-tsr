@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>test</folder>
+<filename>037_1_0005_1_j.png</filename>
+<path>C:\Users\Administrator\Desktop\test\037_1_0005_1_j.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>155</width>
+    <height>148</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>33</xmin>
+        <ymin>34</ymin>
+        <xmax>122</xmax>
+        <ymax>112</ymax>
+    </bndbox>
+</object>
+</annotation>

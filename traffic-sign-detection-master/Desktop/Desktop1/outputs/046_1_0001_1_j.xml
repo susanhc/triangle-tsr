@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>新建文件夹</folder>
+<filename>046_1_0001_1_j.png</filename>
+<path>C:\Users\Administrator\Desktop\新建文件夹\046_1_0001_1_j.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>281</width>
+    <height>245</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>16</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>67</xmin>
+        <ymin>55</ymin>
+        <xmax>226</xmax>
+        <ymax>201</ymax>
+    </bndbox>
+</object>
+</annotation>
